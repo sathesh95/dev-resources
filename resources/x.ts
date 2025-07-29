@@ -21,4 +21,10 @@ export const resources: Resource[] = [
         description: 'A utility-first CSS-in-JS framework built for React.',
         url: 'https://xstyled.dev/',
     },
+    {
+        name: 'xonPlus',
+        categories: ['Security'],
+        description: 'Stop Account Takeovers Before They Start',
+        url: 'https://plus.xposedornot.com/',
+    },
 ]
